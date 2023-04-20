@@ -11,6 +11,8 @@ This is the second project of the Web Development program at Practicum. It was c
 - A custom form
 - CSS animation and transform
 
-## Plan on improving the project
+## Plans for improving the project
 
-Add your ideas here :)
+- Add animations
+- Create back-glow when videos are played
+- Add footer w/ contact / social links
