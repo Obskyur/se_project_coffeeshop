@@ -99,7 +99,7 @@
   color: #838383;
 }
 
-.header__footer_column {
+.header__footer-column {
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
