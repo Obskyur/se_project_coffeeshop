@@ -44,7 +44,7 @@
   font-size: 16px;
   font-weight: 500;
   line-height: 20px;
-  transition: opacity 0.2s linear 0s;
+  transition: opacity 0.3s ease-out;
 }
 
 .form__button:hover {
