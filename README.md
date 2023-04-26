@@ -13,6 +13,6 @@ This is the second project of the Web Development program at Practicum. It was c
 
 ## Plans for improving the project
 
-- Add animations
+- ~~Add animations~~
 - Create back-glow when videos are played
-- Add footer w/ contact / social links
+- ~~Add footer w/ contact / social links~~
