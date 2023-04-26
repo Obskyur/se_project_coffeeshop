@@ -1,3 +1,16 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  height: 100vh;
+  min-height: 720px;
+  max-height: 800px;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  position: relative;
+}
+
 .header__title {
   max-width: 729px;
   margin: 202px 0 0 80px;

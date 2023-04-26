@@ -1,4 +1,4 @@
-.webpage {
+.page__scroll_behavior_smooth {
   scroll-behavior: smooth;
 }
 
@@ -13,17 +13,4 @@
   background-image: url("../images/background_header.svg");
   background-position: center;
   background-size: cover;
-}
-
-.header {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-  height: 100vh;
-  min-height: 720px;
-  max-height: 800px;
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
-  position: relative;
 }
