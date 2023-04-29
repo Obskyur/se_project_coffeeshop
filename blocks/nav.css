@@ -1,7 +1,6 @@
 .nav {
   display: flex;
-  justify-content: flex-end;
-  align-content: flex-start;
+  justify-content: space-between;
 }
 
 .nav__links {

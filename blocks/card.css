@@ -14,6 +14,11 @@
   line-height: 30px;
 }
 
+.card__list {
+  margin: 0;
+  padding: 0;
+}
+
 .card__list-item {
   display: flex;
   justify-content: space-between;
@@ -23,5 +28,6 @@
 
 .card__list-divider {
   flex-grow: 1;
+  margin: 0 10px;
   border-bottom: dashed 1px #000;
 }
