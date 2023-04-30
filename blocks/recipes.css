@@ -52,15 +52,3 @@
   font-size: 20px;
   line-height: 30px;
 }
-
-.recipes__video-caption-spacing {
-  flex-grow: 1;
-}
-
-/* .recipes__video-caption-description {
-  margin: 0;
-} */
-
-.recipes__video-caption-length {
-  margin: 0;
-}

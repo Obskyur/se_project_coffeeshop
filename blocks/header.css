@@ -24,7 +24,7 @@
 }
 
 .header__span-accent {
-  display: inline-block;
+  display: block;
   font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
   font-size: 60px;
@@ -51,7 +51,7 @@
 
 .header__footer {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: space-between;
   margin: auto 80px 40px;
   font-weight: 500;
@@ -60,8 +60,4 @@
 
 .header__paragraph {
   margin: 0;
-}
-
-.header__paragraph:last-of-type {
-  align-self: flex-end;
 }
